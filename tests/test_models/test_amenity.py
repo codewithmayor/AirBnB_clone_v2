@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """
     Test Case For Amenity Model and its Test
 """
